@@ -1,0 +1,22 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Runtime data
+pids
+*.pid
+
+# node_modules
+node_modules
+
+# dist
+dist
+
+# env files
+.env
+.env.local
+.env.production
+
+# vite
+.vite
